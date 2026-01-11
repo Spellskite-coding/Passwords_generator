@@ -2,7 +2,7 @@ Hello !
 
 For compile the file "PasswordGenerator.class" you just have to type the following command :
 
-> javac PasswordGenerator.class
+> javac PasswordGenerator.java
 
 After that, you can use the passwords generator with the following command :
 
